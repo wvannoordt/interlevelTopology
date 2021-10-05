@@ -13,7 +13,7 @@ GlobalSettings
 }
 Domain
 {
-	blockDim = [2, 2, 2]
+	blockDim = [4, 4, 2]
 	blockBounds = [0, 1, 0, 1, 0, 1]
 	meshDataDim = [4, 4, 4]
 	refinementConstraintType = factor2CompletelyConstrained
